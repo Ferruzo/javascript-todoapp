@@ -1,0 +1,47 @@
+header {
+    background-color: #fff;
+    border-bottom: 2px solid #000;
+}
+
+.title {
+    text-align: center;
+    background-color: #e7e7e7;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#field {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    height: 80px;
+}
+
+.agregarButton {
+    color: #000;
+    font-weight: bold;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 6px 15px;
+    border: 1px solid #a4a3a3;
+    background-color: #e7e7e7;
+}
+
+.fa-file-text {
+    margin-right: 5px;
+}
+
+#tasks {
+    margin-top: 220px;
+}
+
+.task {
+    background-color: #e7e7e7;
+    padding: 17px 15px;
+    margin-bottom: 10px;
+}
