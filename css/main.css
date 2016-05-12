@@ -42,6 +42,18 @@ header {
 
 .task {
     background-color: #e7e7e7;
-    padding: 17px 15px;
+    padding: 17px 40px;
     margin-bottom: 10px;
+    position: relative;
+}
+
+.deleteButton {
+    position: absolute;
+    right: 3%;
+}
+
+input {
+    position: absolute;
+    left: 2%;
+    top: 33%;
 }
